@@ -20,13 +20,14 @@ header {
   background-color: white;
 }
 
-.intro-body {
-  width: 375px;
+.introduction  ,.aboutme{
+  width: 375px; 
   display: flex;
   justify-content: center;
   align-items: center;
   margin: 0 auto;
   flex-direction: column;
+  
 }
 
 .dropdown-logo {
@@ -67,6 +68,7 @@ header {
   background-size: cover;
   margin: 0 auto;
   background-color: white;
+  
 }
 
 .intro-para {
@@ -468,7 +470,7 @@ header {
   background-color: white;
 }
 
-.form-page {
+.page-form {
   display: flex;
   width: 375px;
   height: 650px;
@@ -486,7 +488,7 @@ header {
   background-repeat: no-repeat;
 }
 
-.form {
+.form-posts {
   display: flex;
   justify-content: center;
   align-items: center;
