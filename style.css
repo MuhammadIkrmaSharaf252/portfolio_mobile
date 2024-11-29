@@ -20,7 +20,8 @@ header {
   background-color: white;
 }
 
-.intro-body {
+.introduction,
+.aboutme {
   width: 375px;
   display: flex;
   justify-content: center;
@@ -468,7 +469,7 @@ header {
   background-color: white;
 }
 
-.form-page {
+.page-form {
   display: flex;
   width: 375px;
   height: 650px;
@@ -486,7 +487,7 @@ header {
   background-repeat: no-repeat;
 }
 
-.form {
+.form-posts {
   display: flex;
   justify-content: center;
   align-items: center;
