@@ -21,8 +21,8 @@ header {
 }
 
 .introduction,
-.aboutme{
-  width: 375px; 
+.aboutme {
+  width: 375px;
   display: flex;
   justify-content: center;
   align-items: center;
